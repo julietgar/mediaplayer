@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Media player",
   "scripts": {
-    "start": "parcel index.html ejercicios/index.html ejercicios/*/*.html"
+    "start": "parcel index.html"
   },
   "keywords": [],
   "author": "Juliet Garcia",
