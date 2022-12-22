@@ -3,13 +3,16 @@
   "version": "1.0.0",
   "description": "Media player",
   "scripts": {
-    "start": "live-server"
+    "start": "parcel index.html"
   },
   "keywords": [],
   "author": "Juliet Garcia",
   "license": "MIT",
   "devDependencies": {
-    "live-server": "^1.2.2"
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.9.4"
   },
-  "main": "index.js"
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
 }
